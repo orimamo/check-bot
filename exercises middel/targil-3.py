@@ -1,0 +1,5 @@
+a=input("enter your first name : ")
+b=input("enter your last name : ")
+full= (a + " " + b)
+print(full)
+print(full[::-1])
